@@ -1,0 +1,11 @@
+
+@media all and (max-width: 1200px) {
+
+    .banner-setion .banner-right{
+        width: 300px;
+    }
+    .banner-setion .banner-right img{
+        max-width: 100%;
+    }
+
+}
